@@ -1,5 +1,5 @@
 const myBike = {
-  name: "Roadster",
+	name: "Roadster",
 	price: 199.99,
 	frame: {
 		height: 55,
