@@ -1,4 +1,4 @@
-//Excercise can be found at http://javascript.info/class#rewrite-to-class
+//Exercise can be found at http://javascript.info/class#rewrite-to-class
 
 class Clock {
 	constructor({template}) {

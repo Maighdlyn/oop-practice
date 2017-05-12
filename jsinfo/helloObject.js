@@ -1,4 +1,4 @@
-//Excercise can be found at http://javascript.info/object#hello-object
+//Exercise can be found at http://javascript.info/object#hello-object
 
 let user = new Object();
 user.name = "John";

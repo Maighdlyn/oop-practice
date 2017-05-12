@@ -1,4 +1,4 @@
-//Excercise can be found at http://javascript.info/class-inheritance#error-creating-an-instance
+//Exercise can be found at http://javascript.info/class-inheritance#error-creating-an-instance
 
 class Animal {
 	constructor(name) {

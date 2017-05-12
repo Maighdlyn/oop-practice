@@ -1,4 +1,4 @@
-//Excercise can be found at http://javascript.info/constructor-new#create-an-extendable-calculator
+//Exercise can be found at http://javascript.info/constructor-new#create-an-extendable-calculator
 
 function Calculator() {
 

@@ -1,3 +1,5 @@
+//Exercises can be found at http://javascript.info/prototype-inheritance#searching-algorithm
+
 let head = {
 	glasses: 1
 };

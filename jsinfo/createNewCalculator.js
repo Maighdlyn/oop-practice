@@ -1,4 +1,4 @@
-//Excercise can be found at http://javascript.info/constructor-new#create-new-calculator
+//Exercise can be found at http://javascript.info/constructor-new#create-new-calculator
 
 function Calculator() {
 	this.read = function () {
