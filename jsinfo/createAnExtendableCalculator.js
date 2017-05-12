@@ -1,25 +1,27 @@
- function Calculator() {
+//Excercise can be found at http://javascript.info/constructor-new#create-an-extendable-calculator
 
- 	let methods = {
- 		"-": (a, b) => a - b,
- 		"+": (a, b) => a + b
- 	};
+function Calculator() {
 
- 	this.calculate = function (string) {
+	let methods = {
+		"-": (a, b) => a - b,
+		"+": (a, b) => a + b
+	};
 
- 		let split = string.split(' '),
- 			a = +split[0],
- 			op = split[1],
- 			b = +split[2]
+	this.calculate = function (string) {
 
- 		if (!methods[op] || isNaN(a) || isNaN(b)) {
- 			return NaN;
- 		}
+		let split = string.split(' '),
+			a = +split[0],
+			op = split[1],
+			b = +split[2]
 
- 		return methods[op](a, b);
- 	}
+		if (!methods[op] || isNaN(a) || isNaN(b)) {
+			return NaN;
+		}
 
- 	this.addMethod = function (name, func) {
- 		methods[name] = func;
- 	};
- }
+		return methods[op](a, b);
+	}
+
+	this.addMethod = function (name, func) {
+		methods[name] = func;
+	};
+}

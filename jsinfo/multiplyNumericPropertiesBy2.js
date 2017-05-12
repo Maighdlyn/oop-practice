@@ -1,8 +1,4 @@
-//Create a function multiplyNumeric(obj) that multiplies all numeric properties of obj by 2.
-//
-//Please note that multiplyNumeric does not need to return anything. It should modify the object in-place.
-//
-//P.S. Use typeof to check for a number here.
+//Excercise can be found at http://javascript.info/object#multiply-numeric-properties-by-2
 
 function multiplyNumeric(obj) {
 	for (let key in obj) {

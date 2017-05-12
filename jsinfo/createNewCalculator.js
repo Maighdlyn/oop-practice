@@ -1,3 +1,5 @@
+//Excercise can be found at http://javascript.info/constructor-new#create-new-calculator
+
 function Calculator() {
 	this.read = function () {
 		this.first = +prompt("First number?", 0);

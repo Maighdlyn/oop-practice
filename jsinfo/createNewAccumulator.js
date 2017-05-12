@@ -1,9 +1,10 @@
+//Excercise can be found at http://javascript.info/constructor-new#create-new-accumulator
+
 function Accumulator(value) {
 	this.value = value;
 	this.read = function () {
 		this.value += +prompt("What number?", 0);
 	};
-
 }
 
 let accumulator = new Accumulator(1); // initial value 1

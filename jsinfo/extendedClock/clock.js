@@ -1,3 +1,5 @@
+//Excercise can be found at http://javascript.info/class-inheritance#extended-clock
+
 class Clock {
 	constructor({
 		template

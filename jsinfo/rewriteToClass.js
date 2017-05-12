@@ -1,3 +1,5 @@
+//Excercise can be found at http://javascript.info/class#rewrite-to-class
+
 class Clock {
 	constructor({template}) {
 		this._template = template;
