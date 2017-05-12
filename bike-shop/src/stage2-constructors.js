@@ -1,4 +1,4 @@
-function Bike(name, price, rings = [3, 7], ) {
+function Bike(name, price, rings = [3, 7]) {
 	this.name = name;
 	this.price = price;
 	this.tires = [new Tire(), new Tire()];
