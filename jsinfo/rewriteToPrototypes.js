@@ -1,4 +1,4 @@
-//Excercise can be found at http://javascript.info/class-patterns#rewrite-to-prototypes
+//Exercise can be found at http://javascript.info/class-patterns#rewrite-to-prototypes
 
 function Clock({template}) {
 	this._template = template;

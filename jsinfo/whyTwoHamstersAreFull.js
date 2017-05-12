@@ -1,4 +1,4 @@
-//Excercise can be found at http://javascript.info/prototype-inheritance#why-two-hamsters-are-full
+//Exercise can be found at http://javascript.info/prototype-inheritance#why-two-hamsters-are-full
 
 let hamster = {
 	stomach: [],

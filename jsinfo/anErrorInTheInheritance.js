@@ -1,4 +1,4 @@
-//Excercise can be found at http://javascript.info/class-patterns#an-error-in-the-inheritance
+//Exercise can be found at http://javascript.info/class-patterns#an-error-in-the-inheritance
 
 function Animal(name) {
 	this.name = name;

@@ -1,4 +1,4 @@
-//Excercise can be found at http://javascript.info/object-methods#chaining
+//Exercise can be found at http://javascript.info/object-methods#chaining
 
 let ladder = {
 	step: 0,

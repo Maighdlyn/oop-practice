@@ -1,4 +1,4 @@
-//Excercise can be found at http://javascript.info/object#multiply-numeric-properties-by-2
+//Exercise can be found at http://javascript.info/object#multiply-numeric-properties-by-2
 
 function multiplyNumeric(obj) {
 	for (let key in obj) {

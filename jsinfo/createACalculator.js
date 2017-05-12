@@ -1,4 +1,4 @@
-//Excercise can be found at http://javascript.info/object-methods#create-a-calculator
+//Exercise can be found at http://javascript.info/object-methods#create-a-calculator
 
 let calculator = {
 	read() {

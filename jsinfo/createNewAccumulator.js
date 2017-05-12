@@ -1,4 +1,4 @@
-//Excercise can be found at http://javascript.info/constructor-new#create-new-accumulator
+//Exercise can be found at http://javascript.info/constructor-new#create-new-accumulator
 
 function Accumulator(value) {
 	this.value = value;
